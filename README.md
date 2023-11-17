@@ -54,3 +54,7 @@ py server.py
 The server will start listening for incoming connections on the specified port.
 2. Run the client
 The client will establish a connection to the server and begin communication.
+
+## Protocol Details
+The communication protocol adheres to the specifications provided in the Defensive System Design course.
+Please refer to the course materials for detailed information on packet formats, server requests, and expected responses.
