@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a client-server communication project developed for the Defensive System Design course at Open University. The project implements a TCP-based network protocol with a predefined packet format for communication between a C++ client and a Python server.
+This repository contains a client-server communication project. The project implements a TCP-based network protocol with a predefined packet format for communication between a C++ client and a Python server.
 
 ## Table of Contents
 
@@ -56,5 +56,4 @@ The server will start listening for incoming connections on the specified port.
 The client will establish a connection to the server and begin communication.
 
 ## Protocol Details
-The communication protocol adheres to the specifications provided in the Defensive System Design course.
-Please refer to the course materials for detailed information on packet formats, server requests, and expected responses.
+The communication protocol adheres to the specifications are available on request
